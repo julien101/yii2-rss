@@ -1,5 +1,5 @@
 {
-    "name": "yurkinx/yii2-rss",
+    "name": "julien101/yii2-rss",
     "description": "Yii2 Framework extension to provide functionality for consuming RSS and Atom feeds using zend-feed library.",
     "keywords": ["yii2", "extension", "rss", "atom", "feed"],
     "homepage": "https://github.com/yurkinx/yii2-rss",
